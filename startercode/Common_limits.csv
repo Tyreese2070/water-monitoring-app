@@ -1,0 +1,10 @@
+determinand.label,determinand.definition,limit,near_limit,unit
+Endrin,Endrin,0.015,0.009,µg/l
+Hg Filtered,"Mercury, Dissolved",0.0015,0.0009,µg/l
+Naphthalene,Naphthalene,150,117,µg/l
+TetClEthene,Tetrachloroethylene :- {Perchloroethylene},13,9,µg/l
+Pb Filtered,"Lead, Dissolved",1.4,1.08,µg/l
+Benzene,Benzene,13,9,µg/l
+Cd Filtered,"Cadmium, Dissolved",3.3,2.7,µg/l
+Atrazine,Atrazine,0.75,0.54,µg/l
+Phenol,Phenol,0.4,0.27,µg/l
