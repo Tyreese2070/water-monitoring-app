@@ -23,6 +23,7 @@ This application is designed to monitor and analyse water quality data, with a f
 1. **Extract the Starter Code**: 
  - Unzip the provided starter code package to a working directory.
 2. **Build the Project**:
+    - Enter the `startercode` directory
     - Create a `build` directory and run `cmake`:
       ```bash
       mkdir build && cd build
